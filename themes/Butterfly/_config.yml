@@ -129,9 +129,8 @@ avatar: /img/avatar.jpg
 
 # the banner image of index
 # if the banner of another page not setting,it will show the top_img
-# top_img: https://imgsa.baidu.com/forum/pic/item/c04094eef01f3a297e420bd59425bc315c607c33.jpg
 # top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
-top_img: https://s2.ax1x.com/2019/09/04/nZeb0P.jpg
+top_img: https://s2.ax1x.com/2019/09/07/n1MCAU.jpg
 
 #the banner image of post
 # if the post not set the post cover and post top image, it will show it
@@ -230,7 +229,7 @@ valine:
     appId: z4FC6IHQeTaLgBAUlKy2Xaex-gzGzoHsz # leancloud application app id
     appKey: sTfmAokQvcI5kxOIJfMF73b5 # leancloud application app key
     notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
-    verify: true # valine verify code (true/false)
+    verify: false # valine verify code (true/false)
     pageSize: 10 # comment list page size
     avatar: wavatar # gravatar style https://valine.js.org/#/avatar
     lang: zh-cn # i18n: zh-cn/en
