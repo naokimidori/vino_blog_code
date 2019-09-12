@@ -5,7 +5,7 @@ updated: 2019/7/15 16:22:13
 categories:
     - 前端
 tags:
-    - js
+    - javascript
     - ES6
 description: parseInt() 函数解析一个字符串参数，并返回一个指定基数的整数 (数学系统的基础)。
 cover: https://s2.ax1x.com/2019/09/02/nPR2RJ.jpg
