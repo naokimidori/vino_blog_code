@@ -4,6 +4,7 @@ date: 2019/7/13 12:46:25
 updated: 2019/7/15 16:22:13
 categories:
     - 前端
+    - javascript
 tags:
     - javascript
     - ES6

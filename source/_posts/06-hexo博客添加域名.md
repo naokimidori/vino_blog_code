@@ -2,6 +2,7 @@
 title: "Hexo博客之绑定自己的域名"
 categories:
     - 工具
+    - hexo博客
 tags:
     - tool
     - blog
