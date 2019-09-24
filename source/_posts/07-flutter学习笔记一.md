@@ -162,7 +162,39 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 **至此，flutter 开发环境搭建完毕~**
 
+## Hello World
+
+```dart
+import 'package:flutter/material.dart';
+//主函数（入口函数）
+void main() =>runApp(MyApp());
+// 声明MyApp类
+class MyApp extends StatelessWidget{
+  //重写build方法
+  @override
+  Widget build(BuildContext context){
+    //返回一个Material风格的组件
+   return MaterialApp(
+      title:'Welcome to Flutteraa',
+      home:Scaffold(
+        //创建一个Bar，并添加文本
+        appBar:AppBar(
+          title:Text('Welcome to Flutter'),
+        ),
+        //在主体的中间区域，添加一个hello world 的文本
+        body:Center(
+          child:Text('Hello World'),
+        ),
+      ),
+    );
+  }
+}
+```
+
+![hello world](http://ww1.sinaimg.cn/large/8347ed67gy1g7ao90vgvjj20cv0nzmyp.jpg)
+
 ## 参考资料
 
 1. [搭建 Flutter 开发环境](https://juejin.im/book/5c5423ef6fb9a049cd54a213/section/5c615b6751882562e66c8f9e)
 2. [Flutter 学习笔记（1）：开发环境搭建](https://cloud.tencent.com/developer/news/240657)
+3. [Flutter 免费视频教程第一季：开发环境搭建](https://juejin.im/post/5be3d54cf265da611d6624d3)
