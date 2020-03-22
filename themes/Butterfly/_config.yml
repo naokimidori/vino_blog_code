@@ -124,13 +124,13 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: /img/avatar.jpg
+avatar: /img/24.jpeg
 # avatar: http://b-ssl.duitang.com/uploads/item/201708/24/20170824145045_ujMe5.jpeg
 
 # the banner image of index
 # if the banner of another page not setting,it will show the top_img
 # top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
-top_img: http://imgsrc.baidu.com/forum/pic/item/d2e5b7fb43166d22fd08ccb4492309f79052d2b6.jpg
+top_img: https://cdn.nlark.com/yuque/0/2020/jpeg/585973/1584888713233-afc608cf-9d07-4973-a3c7-68e8d2b4dc71.jpeg
 
 #the banner image of post
 # if the post not set the post cover and post top image, it will show it
@@ -277,7 +277,7 @@ Flink:
     info_headline: 我的Blog资料
     name: Blog 名字： Vino
     address: Blog 地址： https://naokimidori.github.io/
-    # avatar: Blog 头像： https://jerryc.me/img/avatar.png
+    avatar: Blog 头像： https://cdn.nlark.com/yuque/0/2020/jpeg/585973/1581263651754-245b7249-59eb-47a2-99cb-31f17a8b331e.jpeg
     info: Blog 简介： 尽人事，听天命
     comment: 感谢关注 ^_^
 
