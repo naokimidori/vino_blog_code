@@ -13,3 +13,10 @@ yarn
 ## 启动本地调试
 hexo s
 
+## 生成
+hexo g
+
+## 清除public目录
+hexo clean
+
+
